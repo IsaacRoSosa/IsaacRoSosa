@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-👋 Hello!, Im Isaac Rojas, a passionate second year computer science and technology student at Monterrey Institute of Technology and Higher Education [ITESM / Tec de Monterrey]<br>    Interested in Software Engineering, Software Development, Web Development, Game development and App Development .<br><br> 
+👋 Hello!, Im Isaac Rojas, a passionate second year computer science and technology student at Monterrey Institute of Technology and Higher Education [ITESM / Tec de Monterrey]<br>    Interested in Software Engineering, Software Development, Web Development, Game development and App Development .
 
 ## 🚀 What Im up To:
  - Currently Taking React Courses to enhance my Web Development skills
