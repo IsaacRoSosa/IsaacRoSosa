@@ -12,7 +12,6 @@ Feel free to connect or collaborate on projects! Let's build something amazing t
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isaacrojassosa) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/isaacrs_481)
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaacrojassosa@gmail.com)
   
 # 💻 Tech Stack:
