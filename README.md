@@ -20,7 +20,7 @@ Libraries / Frameworks: ![React](https://img.shields.io/badge/react-%2320232a.sv
 Databases: ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🏆 Achievements
--	Placed top 10 out of 130 teams at HackMTY 2023, Latin America’s largest Hackathon certified by MLH organization
+-	Placed top 10 out of 130 teams at HackMTY 2023, Mexicos’s largest Hackathon certified by MLH organization
 
 ## 🌱 Future Endeavors
 - Excited to start my role as Social Responsibility Coordinator in the Cybersecurity Tec Club's.
