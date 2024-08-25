@@ -1,12 +1,10 @@
-<h2 align="left">Hi 👋! My name is Isaac Rojas Sosa and I'm a Software developer, from México 🇲🇽</h2>
+<h2 align="left">Hi 👋! My name is Isaac Rojas and I'm a Software developer, from México 🇲🇽</h2>
 
 ###
 
-<p align="left">Im currently studying Computer Science at Tec de Monterrey and working as a<br><br> Software Engineer Intern @ Tec de Monterrey<br> Operations Intern @ Didi</p>
+<h3 align="left">Im currently studying Computer Science at Tec de Monterrey and working as a<br><br> Software Engineer Intern @ Tec de Monterrey<br> Operations Intern @ Didi</h3>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/IsaacRoSosa/IsaacRoSosa/output/snake.svg" alt="Snake animation" />
 
