@@ -2,7 +2,15 @@
 
 ###
 
-<h3 align="left">Im currently studying Computer Science at Tec de Monterrey and working as a<br><br> Software Engineer Intern @ Tec de Monterrey<br> Operations Intern @ Didi</h3>
+<h3 align="center">Im currently studying Computer Science at Tec de Monterrey and working as a<br><br> Software Engineer Intern @ Tec de Monterrey<br> Operations Intern @ Didi</h3>
+
+###
+
+<h1 align="center">
+  Check out my <a href="https://isaacrs-portafolio.vercel.app/" target="_blank">coding portfolio !</a> 🤓
+</h1>
+
+###
 
 ###
 
