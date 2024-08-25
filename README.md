@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Isaac Rojas and I'm a Software developer, from México 🇲🇽</h2>
+<h1 align="center">Hi 👋! My name is Isaac Rojas and I'm a Software developer, from México 🇲🇽</h1>
 
 ###
 
