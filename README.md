@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Im currently studying Computer Science at Tec de Monterrey and working as a<br><br> Software Engineer Intern @ Tec de Monterrey<br> Operations Intern @ Didi</h3>
+<h3 align="center">Im currently studying Computer Science at Tec de Monterrey and working as a<br><br> Software Engineer Intern @ Tec de Monterrey</h3>
 
 ###
 
